@@ -20,5 +20,5 @@ Flutter Food Ordering App made with Dart
 
 <img src="imagess/4.png" width="262" height="462"> <img src="imagess/5.png" width="262" height="462"> <img src="imagess/6.png" width="262" height="462">
 
-<img src="images/7.png" width="262" height="462"> <img src="images/8.png" width="262" height="462">
+<img src="imagess/7.png" width="262" height="462"> <img src="imagess/8.png" width="262" height="462">
 
